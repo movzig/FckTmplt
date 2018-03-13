@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 
 template <class T>
 T FTmplt(T hate){	
